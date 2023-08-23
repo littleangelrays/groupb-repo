@@ -1,0 +1,9 @@
+
+"codeCommitRepository": {
+   "Type": "AWS::CodeCommit::Repository",
+   "Properties": {
+      "RepositoryDescription": "",
+      "RepositoryName": "",
+      "Triggers": [ "" ],
+  }
+}
